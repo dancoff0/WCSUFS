@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: WCSUFSTools.jar commons-cli-1.4.jar
+Main-Class: edu.wcsu.wcsufs.Tools.Launcher
+
